@@ -3,3 +3,5 @@ A Server implamentation in NodeJs using the Mysql Protocol in diffrent flavors a
 
 
 https://dev.mysql.com/doc/internals/en/text-protocol.html
+
+https://github.com/mysqljs/mysql/blob/master/lib/protocol/Protocol.js
